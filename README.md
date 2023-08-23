@@ -16,7 +16,7 @@ I'm a Frontend Engineer and Technical Content Writer. I'm passionate about gaini
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, UI Engineer (Intern or Junior level), or Technical Writer.
-- 📫 You can [view my resume](https://annietah-web.netlify.app) and contact me by emailing ieghonghon@gmail.com.
+- 📫 You can [view my resume]([https://annietah-web.netlify.app](https://docs.google.com/document/d/1SR9APolj5CQLnzZ46qY9tGDw4n1Qyv_8DUMxlBnPgcw/edit?usp=sharing)) and contact me by emailing ieghonghon@gmail.com.
 
 ---
 
