@@ -20,5 +20,5 @@ I'm a Frontend Engineer and Technical Content Writer. I'm passionate about gaini
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anita9771&show_icons=true&include_all_commits=true&hide_border=true" alt="Anita's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anita9771&langs_count=8&layout=compact&hide_border=true" alt="Anita's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anita9771&langs_count=8&layout=compact&hide_border=true" alt="Anita's GitHub stats" /> |
 | ------------- | ------------- |
