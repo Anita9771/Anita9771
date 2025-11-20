@@ -2,8 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25"/> **Hello, I'm Anita Idemudia**
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anita-port.vercel.app)
-[![Website Badge](https://img.shields.io/badge/-annietah-ff69b4?style=for-the-badge\&logo=Google-Chrome\&logoColor=white)](https://annietah-web.netlify.app)
+[![Website Badge](https://img.shields.io/badge/-annietah-ff69b4?style=for-the-badge\&logo=Google-Chrome\&logoColor=white)]([https://annietah-web.netlify.app](https://anita-port.vercel.app))
 [![LinkedIn Badge](https://img.shields.io/badge/-Anita_Idemudia-0A66C2?style=for-the-badge\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/annietah-react-dev-writer)
 [![Twitter Badge](https://img.shields.io/badge/-@annietah__ie-1ca0f1?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/annietah_ie)
 
